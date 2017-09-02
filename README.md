@@ -1,3 +1,0 @@
-# first stash
-# secong
-# third
