@@ -1,12 +1,5 @@
 <<<<<<< HEAD
-123
-456
-789
----
-123
+test local
 =======
-hello
-123
-456
-789
->>>>>>> c65fecf405a83cac8dcc59bab16d0771a1120eaa
+test remote
+>>>>>>> 65eef270c0b85e6b8c60541fd9f179db3469e0a3
