@@ -1,11 +1,12 @@
-hello
+<<<<<<< HEAD
 123
-<<<<<<< a1488def6a577b8808ccfd64f3cf7104f9eda692
-34567
-91011
-=======
 456
 789
 ---
 123
->>>>>>> Update test.txt
+=======
+hello
+123
+456
+789
+>>>>>>> c65fecf405a83cac8dcc59bab16d0771a1120eaa
