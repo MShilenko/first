@@ -1,6 +1,11 @@
 hello
-<<<<<<< 6ab122be0d377a07c7fe6a51c3192bc230d45638
 123
-=======
+<<<<<<< a1488def6a577b8808ccfd64f3cf7104f9eda692
 34567
->>>>>>> edit test on master
+91011
+=======
+456
+789
+---
+123
+>>>>>>> Update test.txt
